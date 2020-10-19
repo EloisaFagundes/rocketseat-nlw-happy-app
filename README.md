@@ -28,7 +28,7 @@
 
 ### Desenvolvedor Back end :octocat:
 
-<div align="center">
+<div align="left">
 
 [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEeNdPId0tx5w/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=gmdw5H3DNwi5pYvEYJimd6TBjftjyTrtV_pb5uR667g" width=115><br><sub>Thales Milanezi</sub>](https://www.linkedin.com/in/thales-fernando-milanezi-952028114/)
 
