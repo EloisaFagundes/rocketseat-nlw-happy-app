@@ -9,3 +9,19 @@
 - Criando Landing Page
 - Criando rotas
 - Página de Mapa
+
+ ## dia 02
+  
+- Backend em NodeJS
+- Criação de orfanatos
+- Detalhes do orfanato
+
+ ## dia 03
+  
+- Finalizando página de mapa
+- Criando navegação entre telas
+- Abstraindo componentes
+- Conectando front end e back end
+- Listando orfanatos no mapa
+- Detalhes do orfanato
+- Criação de um orfanato
